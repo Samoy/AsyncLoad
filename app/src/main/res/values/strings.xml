@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncLoad</string>
+    <string name="title">title</string>
+    <string name="content">content</string>
+</resources>
